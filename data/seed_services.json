@@ -1,0 +1,332 @@
+[
+ 
+  {
+    "serviceId": "income_certificate", "language": "english",
+    "serviceName": "Income Certificate",
+    "description": "Official document certifying annual family income, issued by Mandal Revenue Officer",
+    "requiredDocuments": [
+      "Aadhaar Card - original and photocopy",
+      "Ration Card - original and photocopy",
+      "Bank passbook - first page copy",
+      "Application form - free at Mandal office",
+      "Recent electricity or water bill",
+      "Self-declaration affidavit on Rs.20 stamp paper"
+    ],
+    "commonMistakes": [
+      "Aadhaar address does not match current residence - most common rejection reason",
+      "Application not counter-signed by VRO (Village Revenue Officer)",
+      "Income amount written incorrectly or left blank",
+      "Passport photographs not attached to application form"
+    ],
+    "applicableOffice": "Mandal",
+    "processingDays": "7-15 working days",
+    "fees": "Free of cost under MeeSeva"
+  },
+  {
+    "serviceId": "income_certificate", "language": "telugu",
+    "serviceName": "ఆదాయ ధృవీకరణ పత్రం",
+    "description": "మండల రెవెన్యూ అధికారి జారీ చేసే వార్షిక కుటుంబ ఆదాయ ధృవీకరణ పత్రం",
+    "requiredDocuments": [
+      "ఆధార్ కార్డ్ - అసలు మరియు జిరాక్స్",
+      "రేషన్ కార్డ్ - అసలు మరియు జిరాక్స్",
+      "బ్యాంక్ పాస్‌బుక్ - మొదటి పేజీ కాపీ",
+      "దరఖాస్తు ఫారం - మండల కార్యాలయంలో ఉచితంగా",
+      "తాజా విద్యుత్ లేదా నీటి బిల్లు",
+      "రూ.20 స్టాంప్ పేపర్‌పై స్వీయ ప్రకటన పత్రం"
+    ],
+    "commonMistakes": [
+      "ఆధార్ చిరునామా నివాసానికి సరిపోలడం లేదు - అతి సాధారణ తిరస్కరణ కారణం",
+      "VRO సంతకం మరియు ముద్ర లేదు",
+      "ఆదాయ మొత్తం తప్పుగా లేదా ఖాళీగా ఉంది",
+      "ఫోటోలు దరఖాస్తు ఫారంకు అతికించలేదు"
+    ],
+    "applicableOffice": "Mandal",
+    "processingDays": "7-15 పని దినాలు",
+    "fees": "మీసేవ కింద ఉచితం"
+  },
+  {
+    "serviceId": "income_certificate", "language": "hindi",
+    "serviceName": "आय प्रमाण पत्र",
+    "description": "मंडल राजस्व अधिकारी द्वारा जारी वार्षिक पारिवारिक आय का प्रमाण पत्र",
+    "requiredDocuments": [
+      "आधार कार्ड - मूल और फोटोकॉपी",
+      "राशन कार्ड - मूल और फोटोकॉपी",
+      "बैंक पासबुक - पहले पेज की कॉपी",
+      "आवेदन फॉर्म - मंडल कार्यालय में मुफ्त",
+      "हाल का बिजली या पानी का बिल",
+      "20 रुपये के स्टाम्प पेपर पर स्व-घोषणा"
+    ],
+    "commonMistakes": [
+      "आधार पता वर्तमान निवास से मेल नहीं खाता - सबसे सामान्य अस्वीकृति कारण",
+      "VRO के हस्ताक्षर और मुहर नहीं है",
+      "आय राशि गलत या खाली लिखी है",
+      "पासपोर्ट फोटो आवेदन फॉर्म पर नहीं लगाए"
+    ],
+    "applicableOffice": "Mandal",
+    "processingDays": "7-15 कार्य दिवस",
+    "fees": "मीसेवा के तहत निःशुल्क"
+  },
+ 
+  {
+    "serviceId": "caste_certificate", "language": "english",
+    "serviceName": "Caste Certificate",
+    "description": "Certificate issued by Mandal Revenue Officer confirming caste/community for reservations and govt schemes",
+    "requiredDocuments": [
+      "Aadhaar Card - original and photocopy",
+      "SSC or Intermediate certificate showing caste column",
+      "Ration Card - page showing caste column",
+      "Application form from Mandal office",
+      "Father or mothers caste certificate if available",
+      "Address proof - electricity bill or rent agreement"
+    ],
+    "commonMistakes": [
+      "Caste name spelled differently across documents",
+      "School certificate not attested by Headmaster",
+      "Father name mismatch between Aadhaar and Ration Card",
+      "Applied at wrong Mandal - must match your residential address Mandal"
+    ],
+    "applicableOffice": "Mandal",
+    "processingDays": "15-30 working days",
+    "fees": "Free of cost"
+  },
+  {
+    "serviceId": "caste_certificate", "language": "telugu",
+    "serviceName": "కులధృవీకరణ పత్రం",
+    "description": "మండల రెవెన్యూ అధికారి జారీ చేసే కులం/వర్గం ధృవీకరణ పత్రం",
+    "requiredDocuments": [
+      "ఆధార్ కార్డ్ - అసలు మరియు జిరాక్స్",
+      "SSC లేదా ఇంటర్ సర్టిఫికేట్ - కుల నమోదు పేజీ",
+      "రేషన్ కార్డ్ - కుల నమోదు ఉన్న పేజీ",
+      "మండల కార్యాలయం నుండి దరఖాస్తు ఫారం",
+      "తండ్రి లేదా తల్లి కుల ధృవీకరణ పత్రం (అందుబాటులో ఉంటే)",
+      "చిరునామా నిరూపణ - విద్యుత్ బిల్లు లేదా అద్దె ఒప్పందం"
+    ],
+    "commonMistakes": [
+      "వివిధ పత్రాలలో కుల పేరు వేర్వేరుగా ఉంది",
+      "హెడ్‌మాస్టర్ ధ్రువీకరణ లేని పాఠశాల సర్టిఫికేట్",
+      "ఆధార్ మరియు రేషన్ కార్డ్‌లో తండ్రి పేరు తేడాగా ఉంది",
+      "నివాస మండలంలో కాకుండా వేరే మండలంలో దరఖాస్తు"
+    ],
+    "applicableOffice": "Mandal",
+    "processingDays": "15-30 పని దినాలు",
+    "fees": "ఉచితం"
+  },
+  {
+    "serviceId": "caste_certificate", "language": "hindi",
+    "serviceName": "जाति प्रमाण पत्र",
+    "description": "मंडल राजस्व अधिकारी द्वारा जारी जाति/समुदाय का प्रमाण पत्र",
+    "requiredDocuments": [
+      "आधार कार्ड - मूल और फोटोकॉपी",
+      "SSC या इंटरमीडिएट प्रमाण पत्र - जाति कॉलम वाला पेज",
+      "राशन कार्ड - जाति नामांकन वाला पेज",
+      "मंडल कार्यालय से आवेदन फॉर्म",
+      "पिता या माता का जाति प्रमाण पत्र यदि उपलब्ध हो",
+      "पता प्रमाण - बिजली बिल या किराया समझौता"
+    ],
+    "commonMistakes": [
+      "अलग-अलग दस्तावेजों में जाति नाम की अलग-अलग स्पेलिंग",
+      "प्रधानाध्यापक द्वारा सत्यापित नहीं किया गया स्कूल प्रमाण पत्र",
+      "आधार और राशन कार्ड में पिता के नाम में अंतर",
+      "गलत मंडल में आवेदन - आपके निवास मंडल में आवेदन करें"
+    ],
+    "applicableOffice": "Mandal",
+    "processingDays": "15-30 कार्य दिवस",
+    "fees": "निःशुल्क"
+  },
+ 
+  {
+    "serviceId": "ration_card", "language": "english",
+    "serviceName": "Ration Card (New / Update)",
+    "description": "Food security document issued by Civil Supplies dept for subsidized food grains",
+    "requiredDocuments": [
+      "Aadhaar Card of all family members - originals and photocopies",
+      "Proof of residence - electricity bill or rent agreement",
+      "Proof that no ration card exists for family - surrender certificate if previous one existed",
+      "Income proof - salary slip or income certificate",
+      "Passport size photographs of head of family",
+      "Application form - available at MeeSeva centre"
+    ],
+    "commonMistakes": [
+      "Not linking all family members Aadhaar to the ration card",
+      "Applying for new card without surrendering old one from previous address",
+      "Name mismatch between Aadhaar and application form",
+      "Not specifying correct category: APL, BPL, or AAY"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "30-45 working days",
+    "fees": "Rs. 5 for new card issuance"
+  },
+  {
+    "serviceId": "ration_card", "language": "telugu",
+    "serviceName": "రేషన్ కార్డ్ (కొత్త / నవీకరణ)",
+    "description": "పౌర సరఫరాల శాఖ జారీ చేసే సబ్సిడీ ఆహార ధాన్యాల భద్రతా పత్రం",
+    "requiredDocuments": [
+      "కుటుంబంలోని అందరి ఆధార్ కార్డులు - అసలు మరియు జిరాక్సులు",
+      "నివాస నిరూపణ - విద్యుత్ బిల్లు లేదా అద్దె ఒప్పందం",
+      "కుటుంబానికి రేషన్ కార్డ్ లేదని నిరూపణ - ముందు కార్డ్ ఉంటే సమర్పణ సర్టిఫికేట్",
+      "ఆదాయ నిరూపణ - జీతం స్లిప్ లేదా ఆదాయ ధృవీకరణ పత్రం",
+      "కుటుంబ యజమాని పాస్‌పోర్ట్ సైజు ఫోటోలు",
+      "దరఖాస్తు ఫారం - మీసేవ కేంద్రంలో అందుబాటులో"
+    ],
+    "commonMistakes": [
+      "కుటుంబ సభ్యులందరి ఆధార్‌ను రేషన్ కార్డ్‌కు లింక్ చేయలేదు",
+      "పాత కార్డ్ సమర్పించకుండా కొత్త కార్డ్‌కు దరఖాస్తు",
+      "ఆధార్ మరియు దరఖాస్తు ఫారంలో పేరు తేడాగా ఉంది",
+      "సరైన వర్గం పేర్కొనలేదు: APL, BPL, లేదా AAY"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "30-45 పని దినాలు",
+    "fees": "కొత్త కార్డ్‌కు రూ.5"
+  },
+  {
+    "serviceId": "ration_card", "language": "hindi",
+    "serviceName": "राशन कार्ड (नया / अपडेट)",
+    "description": "नागरिक आपूर्ति विभाग द्वारा सब्सिडी अनाज के लिए जारी खाद्य सुरक्षा दस्तावेज",
+    "requiredDocuments": [
+      "परिवार के सभी सदस्यों के आधार कार्ड - मूल और फोटोकॉपी",
+      "निवास प्रमाण - बिजली बिल या किराया समझौता",
+      "परिवार में राशन कार्ड नहीं होने का प्रमाण - पुराना हो तो समर्पण प्रमाण पत्र",
+      "आय प्रमाण - वेतन पर्ची या आय प्रमाण पत्र",
+      "परिवार के मुखिया की पासपोर्ट साइज फोटो",
+      "आवेदन फॉर्म - मीसेवा केंद्र से उपलब्ध"
+    ],
+    "commonMistakes": [
+      "सभी परिवार सदस्यों का आधार राशन कार्ड से लिंक नहीं किया",
+      "पुराना कार्ड जमा किए बिना नए के लिए आवेदन",
+      "आधार और आवेदन फॉर्म में नाम की भिन्नता",
+      "सही श्रेणी नहीं बताई: APL, BPL, या AAY"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "30-45 कार्य दिवस",
+    "fees": "नए कार्ड के लिए 5 रुपये"
+  },
+ 
+  {
+    "serviceId": "voter_id", "language": "english",
+    "serviceName": "Voter ID Card (EPIC)",
+    "description": "Elector Photo Identity Card issued by Election Commission of India. Apply online at voters.eci.gov.in",
+    "requiredDocuments": [
+      "Aadhaar Card or any identity proof",
+      "Proof of age: Birth certificate or SSC marksheet",
+      "Proof of residence: Utility bill, bank passbook, or passport",
+      "Passport size photograph (recent, white background)",
+      "Form 6 - available online at voters.eci.gov.in or at Electoral Registration Office"
+    ],
+    "commonMistakes": [
+      "Applying at wrong constituency - must apply in your current residential area",
+      "Photograph does not meet specifications (blurry, coloured background)",
+      "Age proof document showing age below 18",
+      "Not linking Aadhaar to voter ID on the portal after receiving card"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "30-45 working days (online: 2-3 weeks)",
+    "fees": "Free of cost"
+  },
+  {
+    "serviceId": "voter_id", "language": "telugu",
+    "serviceName": "ఓటర్ ఐడీ కార్డ్ (EPIC)",
+    "description": "భారత ఎన్నికల సంఘం జారీ చేసే ఎలక్టర్ ఫోటో ఐడెంటిటీ కార్డ్. voters.eci.gov.in లో ఆన్‌లైన్‌లో దరఖాస్తు చేయవచ్చు",
+    "requiredDocuments": [
+      "ఆధార్ కార్డ్ లేదా ఏదైనా గుర్తింపు నిరూపణ",
+      "వయసు నిరూపణ: జన్మ ధృవీకరణ పత్రం లేదా SSC మార్క్‌షీట్",
+      "నివాస నిరూపణ: యుటిలిటీ బిల్లు, బ్యాంక్ పాస్‌బుక్ లేదా పాస్‌పోర్ట్",
+      "పాస్‌పోర్ట్ సైజు ఫోటో (తాజా, తెల్లని నేపథ్యం)",
+      "ఫారం 6 - voters.eci.gov.in లో ఆన్‌లైన్‌లో లేదా ఎలక్టోరల్ రిజిస్ట్రేషన్ కార్యాలయంలో"
+    ],
+    "commonMistakes": [
+      "తప్పు నియోజకవర్గంలో దరఖాస్తు - మీ నివాస ప్రాంతంలో దరఖాస్తు చేయాలి",
+      "ఫోటో స్పెసిఫికేషన్లకు అనుగుణంగా లేదు (అస్పష్టంగా, రంగుల నేపథ్యం)",
+      "18 సంవత్సరాల కంటే తక్కువ వయసు చూపే వయసు నిరూపణ పత్రం",
+      "కార్డ్ వచ్చిన తర్వాత పోర్టల్‌లో ఆధార్‌ను ఓటర్ ఐడీతో లింక్ చేయలేదు"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "30-45 పని దినాలు (ఆన్‌లైన్: 2-3 వారాలు)",
+    "fees": "ఉచితం"
+  },
+  {
+    "serviceId": "voter_id", "language": "hindi",
+    "serviceName": "मतदाता पहचान पत्र (EPIC)",
+    "description": "भारत निर्वाचन आयोग द्वारा जारी पहचान पत्र। ऑनलाइन आवेदन: voters.eci.gov.in",
+    "requiredDocuments": [
+      "आधार कार्ड या कोई भी पहचान प्रमाण",
+      "आयु प्रमाण: जन्म प्रमाण पत्र या SSC मार्कशीट",
+      "निवास प्रमाण: बिजली बिल, बैंक पासबुक या पासपोर्ट",
+      "पासपोर्ट साइज फोटो (हाल का, सफेद पृष्ठभूमि)",
+      "फॉर्म 6 - voters.eci.gov.in पर ऑनलाइन या निर्वाचन पंजीकरण कार्यालय में"
+    ],
+    "commonMistakes": [
+      "गलत निर्वाचन क्षेत्र में आवेदन - अपने वर्तमान निवास क्षेत्र में आवेदन करें",
+      "फोटो विनिर्देशों के अनुरूप नहीं (धुंधली, रंगीन पृष्ठभूमि)",
+      "18 वर्ष से कम आयु दिखाने वाला आयु प्रमाण",
+      "कार्ड मिलने के बाद पोर्टल पर आधार को मतदाता आईडी से लिंक नहीं किया"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "30-45 कार्य दिवस (ऑनलाइन: 2-3 सप्ताह)",
+    "fees": "निःशुल्क"
+  },
+ 
+  {
+    "serviceId": "pan_card", "language": "english",
+    "serviceName": "PAN Card",
+    "description": "Permanent Account Number issued by Income Tax Department. Apply online at onlineservices.nsdl.com or utiitsl.com",
+    "requiredDocuments": [
+      "Identity proof: Aadhaar Card (most commonly accepted)",
+      "Address proof: Aadhaar Card or passport or utility bill",
+      "Date of birth proof: Aadhaar Card or birth certificate or SSC certificate",
+      "Passport size photograph",
+      "Mobile number linked to Aadhaar (for e-PAN via OTP)"
+    ],
+    "commonMistakes": [
+      "Name on application must exactly match Aadhaar or passport - even small spelling differences cause rejection",
+      "Date of birth format inconsistency between Aadhaar and application",
+      "Applying multiple times - each person can only have ONE PAN card legally",
+      "Not collecting physical card from post office when delivery attempted"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "e-PAN: instant to 48 hours. Physical card: 15-20 working days",
+    "fees": "e-PAN free for Aadhaar holders. Physical card: Rs. 107"
+  },
+  {
+    "serviceId": "pan_card", "language": "telugu",
+    "serviceName": "పాన్ కార్డ్",
+    "description": "ఆదాయపు పన్ను విభాగం జారీ చేసే పర్మనెంట్ అకౌంట్ నంబర్. onlineservices.nsdl.com లో ఆన్‌లైన్‌లో దరఖాస్తు చేయవచ్చు",
+    "requiredDocuments": [
+      "గుర్తింపు నిరూపణ: ఆధార్ కార్డ్ (అత్యంత ఆమోదయోగ్యం)",
+      "చిరునామా నిరూపణ: ఆధార్ కార్డ్ లేదా పాస్‌పోర్ట్ లేదా యుటిలిటీ బిల్లు",
+      "పుట్టిన తేదీ నిరూపణ: ఆధార్ కార్డ్ లేదా జన్మ ధృవీకరణ లేదా SSC సర్టిఫికేట్",
+      "పాస్‌పోర్ట్ సైజు ఫోటో",
+      "ఆధార్‌కు లింక్ అయిన మొబైల్ నంబర్ (e-PAN OTP కోసం)"
+    ],
+    "commonMistakes": [
+      "దరఖాస్తులో పేరు ఆధార్‌తో సరిగ్గా సరిపోలాలి - చిన్న స్పెల్లింగ్ తేడాలు కూడా తిరస్కరణకు దారితీస్తాయి",
+      "ఆధార్ మరియు దరఖాస్తులో పుట్టిన తేదీ ఫార్మాట్ తేడా",
+      "బహుళ సార్లు దరఖాస్తు - ఒక వ్యక్తికి చట్టపరంగా ఒకే PAN కార్డ్ మాత్రమే",
+      "పోస్టు ద్వారా డెలివరీ అయినప్పుడు పోస్ట్ ఆఫీస్ నుండి కార్డ్ తీసుకోలేదు"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "e-PAN: తక్షణం నుండి 48 గంటలు. భౌతిక కార్డ్: 15-20 పని దినాలు",
+    "fees": "ఆధార్ హోల్డర్లకు e-PAN ఉచితం. భౌతిక కార్డ్: రూ.107"
+  },
+  {
+    "serviceId": "pan_card", "language": "hindi",
+    "serviceName": "पैन कार्ड",
+    "description": "आयकर विभाग द्वारा जारी स्थायी खाता संख्या। ऑनलाइन आवेदन: onlineservices.nsdl.com",
+    "requiredDocuments": [
+      "पहचान प्रमाण: आधार कार्ड (सबसे अधिक स्वीकार्य)",
+      "पता प्रमाण: आधार कार्ड या पासपोर्ट या बिजली बिल",
+      "जन्म तिथि प्रमाण: आधार कार्ड या जन्म प्रमाण पत्र या SSC प्रमाण पत्र",
+      "पासपोर्ट साइज फोटो",
+      "आधार से लिंक मोबाइल नंबर (e-PAN OTP के लिए)"
+    ],
+    "commonMistakes": [
+      "आवेदन में नाम आधार से बिल्कुल मेल खाना चाहिए - छोटी स्पेलिंग गलती भी अस्वीकृति का कारण",
+      "आधार और आवेदन में जन्म तिथि प्रारूप में अंतर",
+      "बार-बार आवेदन - कानूनी रूप से एक व्यक्ति के पास केवल एक PAN कार्ड हो सकता है",
+      "डाक से डिलीवरी के समय पोस्ट ऑफिस से कार्ड नहीं लिया"
+    ],
+    "applicableOffice": "eSeva",
+    "processingDays": "e-PAN: तुरंत से 48 घंटे। भौतिक कार्ड: 15-20 कार्य दिवस",
+    "fees": "आधार धारकों के लिए e-PAN निःशुल्क। भौतिक कार्ड: रु.107"
+  }
+ 
+]

@@ -1,0 +1,8 @@
+[
+  {"officeId":"mandal_secunderabad","officeName":"Secunderabad Mandal Revenue Office","officeType":"Mandal","district":"Hyderabad","address":"Revenue Divisional Office, SD Road, Secunderabad 500003","latitude":17.4399,"longitude":78.4983,"contactNumber":"040-27840605","timings":"10:00 AM - 5:00 PM Mon-Sat"},
+  {"officeId":"mandal_abids","officeName":"Hyderabad Central Mandal Office","officeType":"Mandal","district":"Hyderabad","address":"Revenue Office, Abids, Hyderabad 500001","latitude":17.3928,"longitude":78.4627,"contactNumber":"040-23461234","timings":"10:00 AM - 5:00 PM Mon-Sat"},
+  {"officeId":"eseva_ameerpet","officeName":"MeeSeva Centre - Ameerpet","officeType":"eSeva","district":"Hyderabad","address":"Near Ameerpet Metro Station, Hyderabad 500016","latitude":17.4374,"longitude":78.4487,"contactNumber":"040-23742222","timings":"8:00 AM - 8:00 PM Mon-Sat"},
+  {"officeId":"eseva_dilsukhnagar","officeName":"MeeSeva Centre - Dilsukhnagar","officeType":"eSeva","district":"Hyderabad","address":"Dilsukhnagar Main Road, Hyderabad 500060","latitude":17.3688,"longitude":78.5267,"contactNumber":"040-24049999","timings":"8:00 AM - 8:00 PM Mon-Sat"},
+  {"officeId":"aadhaar_banjara","officeName":"Aadhaar Seva Kendra - Banjara Hills","officeType":"Aadhaar","district":"Hyderabad","address":"Head Post Office, Road No.12, Banjara Hills 500034","latitude":17.4126,"longitude":78.4438,"contactNumber":"1947","timings":"9:30 AM - 5:30 PM Mon-Sat"},
+  {"officeId":"rto_mehdipatnam","officeName":"RTO Hyderabad South","officeType":"RTO","district":"Hyderabad","address":"Regional Transport Office, Mehdipatnam 500028","latitude":17.3961,"longitude":78.4270,"contactNumber":"040-23310101","timings":"10:30 AM - 5:00 PM Mon-Sat"}
+]
