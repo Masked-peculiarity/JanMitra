@@ -3,7 +3,7 @@
 
 JanMitra AI helps rural and semi-urban citizens in Hyderabad district prepare correctly before applying for government certificates and services — guiding them in their own language, verifying their documents, and finding the nearest office.
 
-**Live Demo:** [janmitra-ai.vercel.app](https://janmitra-ai.vercel.app)  
+**Live Demo:** [janmitra-ai.vercel.app](https://janmitra-ai1-pxiceyjo8-masked-peculiaritys-projects.vercel.app)  
 **Region:** Hyderabad District, Telangana  
 **Languages:** English • తెలుగు (Telugu) • हिंदी (Hindi)
 
@@ -247,5 +247,6 @@ python import_data.py
 ---
 
 ## License
+
 
 MIT License — built for the AWS Hackathon 2026.
